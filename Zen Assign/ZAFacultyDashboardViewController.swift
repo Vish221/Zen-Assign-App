@@ -7,11 +7,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ZADashboardViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        view.backgroundColor = .yellow
     }
 
 
